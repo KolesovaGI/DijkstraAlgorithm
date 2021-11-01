@@ -1,0 +1,16 @@
+E:\DijkstraAlgorythm\DijkstraAlgorythm\bin\Debug\net5.0\DijkstraAlgorythm.exe
+E:\DijkstraAlgorythm\DijkstraAlgorythm\bin\Debug\net5.0\DijkstraAlgorythm.deps.json
+E:\DijkstraAlgorythm\DijkstraAlgorythm\bin\Debug\net5.0\DijkstraAlgorythm.runtimeconfig.json
+E:\DijkstraAlgorythm\DijkstraAlgorythm\bin\Debug\net5.0\DijkstraAlgorythm.runtimeconfig.dev.json
+E:\DijkstraAlgorythm\DijkstraAlgorythm\bin\Debug\net5.0\DijkstraAlgorythm.dll
+E:\DijkstraAlgorythm\DijkstraAlgorythm\bin\Debug\net5.0\ref\DijkstraAlgorythm.dll
+E:\DijkstraAlgorythm\DijkstraAlgorythm\bin\Debug\net5.0\DijkstraAlgorythm.pdb
+E:\DijkstraAlgorythm\DijkstraAlgorythm\obj\Debug\net5.0\DijkstraAlgorythm.csprojAssemblyReference.cache
+E:\DijkstraAlgorythm\DijkstraAlgorythm\obj\Debug\net5.0\DijkstraAlgorythm.GeneratedMSBuildEditorConfig.editorconfig
+E:\DijkstraAlgorythm\DijkstraAlgorythm\obj\Debug\net5.0\DijkstraAlgorythm.AssemblyInfoInputs.cache
+E:\DijkstraAlgorythm\DijkstraAlgorythm\obj\Debug\net5.0\DijkstraAlgorythm.AssemblyInfo.cs
+E:\DijkstraAlgorythm\DijkstraAlgorythm\obj\Debug\net5.0\DijkstraAlgorythm.csproj.CoreCompileInputs.cache
+E:\DijkstraAlgorythm\DijkstraAlgorythm\obj\Debug\net5.0\DijkstraAlgorythm.dll
+E:\DijkstraAlgorythm\DijkstraAlgorythm\obj\Debug\net5.0\ref\DijkstraAlgorythm.dll
+E:\DijkstraAlgorythm\DijkstraAlgorythm\obj\Debug\net5.0\DijkstraAlgorythm.pdb
+E:\DijkstraAlgorythm\DijkstraAlgorythm\obj\Debug\net5.0\DijkstraAlgorythm.genruntimeconfig.cache
